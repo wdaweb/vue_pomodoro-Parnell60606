@@ -31,4 +31,6 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://github.com/Parnell60606/pomodoro)
+- [GitHub](https://github.com/Parnell60606/pomodoroo)  
+- [GitHubPage](https://parnell60606.github.io/pomodoroo/#/)  
+
